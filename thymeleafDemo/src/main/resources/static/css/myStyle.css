@@ -1,0 +1,13 @@
+body {
+	background: yellow;
+}
+
+.container {
+	background: blue;
+	padding: 40px;
+	font-family: 'roboto'
+}
+
+.profile {
+	border-radius: 50%;
+}

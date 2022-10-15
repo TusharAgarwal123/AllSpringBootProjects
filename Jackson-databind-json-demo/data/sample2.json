@@ -1,0 +1,20 @@
+{
+	"id": 101,
+	"firstName": "Tushar",
+	"lastName": "Agarwal",
+	"active": false,
+	"address": {
+		"street": "Sheetal Ganj",
+		"city": "Bulandshahr",
+		"state": "UP",
+		"country": "india",
+		"continent": "asia"
+	},
+	"languages": [
+		"java",
+		"java script",
+		"c++",
+		"python"
+	],
+	"company": "Daffodil Software"
+}

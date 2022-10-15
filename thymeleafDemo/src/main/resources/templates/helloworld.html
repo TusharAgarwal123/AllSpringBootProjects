@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="UTF-8">
+<title>Thymeleaf Demo</title>
+</head>
+
+<body>
+
+	<p th:text="'time on the server is' + ${theDate}" />
+
+	<!-- <p th:text="${name}" /> -->
+
+	<p th:text="${ #strings.toUpperCase(name)}" />
+
+</body>
+</html>

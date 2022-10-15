@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/unthinkable-lap-0076/Downloads/jar_files/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="/home/unthinkable-lap-0076/Downloads/jar_files/cdi-api-1.1-PFD.jar"/>
+	<classpathentry kind="lib" path="/home/unthinkable-lap-0076/Downloads/jar_files/classmate-1.3.0.jar"/>
+	<classpathentry kind="lib" path="/home/unthinkable-lap-0076/Downloads/jar_files/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/unthinkable-lap-0076/Downloads/jar_files/el-api-2.2.jar"/>
+	<classpathentry kind="lib" path="/home/unthinkable-lap-0076/Downloads/jar_files/geronimo-jta_1.1_spec-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/unthinkable-lap-0076/Downloads/jar_files/hibernate-commons-annotations-5.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="/home/unthinkable-lap-0076/Downloads/jar_files/hibernate-core-5.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="/home/unthinkable-lap-0076/Downloads/jar_files/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="/home/unthinkable-lap-0076/Downloads/jar_files/jandex-2.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="/home/unthinkable-lap-0076/Downloads/jar_files/javassist-3.20.0-GA.jar"/>
+	<classpathentry kind="lib" path="/home/unthinkable-lap-0076/Downloads/jar_files/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="/home/unthinkable-lap-0076/Downloads/jar_files/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar"/>
+	<classpathentry kind="lib" path="/home/unthinkable-lap-0076/Downloads/jar_files/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="/home/unthinkable-lap-0076/Downloads/jar_files/jsr250-api-1.0.jar"/>
+	<classpathentry kind="lib" path="/home/unthinkable-lap-0076/Downloads/jar_files/xml-apis-1.0.b2.jar"/>
+	<classpathentry kind="lib" path="/home/unthinkable-lap-0076/Downloads/incapp jar/mysql-connector-java-5.1.34-bin.jar"/>
+	<classpathentry kind="lib" path="/home/unthinkable-lap-0076/Downloads/hibernate-release-5.4.29.Final/lib/required/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="/home/unthinkable-lap-0076/Downloads/hibernate-release-5.4.29.Final/lib/required/jaxb-runtime-2.3.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

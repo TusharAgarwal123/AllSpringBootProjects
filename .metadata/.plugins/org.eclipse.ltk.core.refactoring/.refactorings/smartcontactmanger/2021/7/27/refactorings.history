@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;smartcontactmanger/src/main/resources/templates/varify-otp.html&apos; to &apos;verify-otp.html&apos;" description="Rename resource &apos;varify-otp.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/templates/varify-otp.html" name="verify-otp.html" stamp="1625122091661" updateReferences="true"/>
+</session>

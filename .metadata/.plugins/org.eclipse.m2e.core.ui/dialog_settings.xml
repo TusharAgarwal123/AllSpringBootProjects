@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="/home/unthinkable-lap-0076/eclipse-workspace/Web-Customer-Tracker"/>
+			<item value="/home/unthinkable-lap-0076/eclipse-workspace/spring-security-custom-userRegistration-demo"/>
+			<item value="/home/unthinkable-lap-0076/eclipse-workspace/Spring-MVC-Demo"/>
+			<item value="/home/unthinkable-lap-0076/eclipse-workspace/spring-security-demo-02-basic-security"/>
+			<item value="/home/unthinkable-lap-0076/eclipse-workspace/Spring-MVC-Demo2"/>
+			<item value="/home/unthinkable-lap-0076/eclipse-workspace/Hibernate-Demo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.vertex.demo.vettex_demo"/>
+			<item value="com.email.demo.email_sending"/>
+			<item value="com.email.demo"/>
+			<item value="com.project.demo.spring_rest_demo"/>
+			<item value="com.project.demo.Jackson_databind_json_demo"/>
+			<item value="com.project.demo.CollegeProject"/>
+			<item value="com.spring_security_demo.spring_security_custom_userRegistration_demo"/>
+			<item value="com.spring_security_demo.spring_security_demo_03_basic_security"/>
+			<item value="com.spring_security_demo.com.spring_security_demo_03_basic_security"/>
+			<item value="com.spring_security_demo.spring_security_demo"/>
+		</list>
+		<list key="groupId">
+			<item value="com.vertex.demo"/>
+			<item value="com.email.demo"/>
+			<item value="com.project.demo"/>
+			<item value="com.spring-security-demo"/>
+		</list>
+		<list key="artifactId">
+			<item value="vettex-demo"/>
+			<item value="email-sending"/>
+			<item value="email_sending"/>
+			<item value="spring-rest-demo"/>
+			<item value="Jackson-databind-json-demo"/>
+			<item value="CollegeProject"/>
+			<item value="spring-security-custom-userRegistration-demo"/>
+			<item value="spring-security-demo-03-basic-security"/>
+			<item value="com.spring-security-demo-03-basic-security"/>
+			<item value="spring-security-demo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="/home/unthinkable-lap-0076/Downloads/spring-boot-rabbitmq"/>
+			<item value="/home/unthinkable-lap-0076/Desktop/photo-app-api-album/PhotoAppApiAlbums"/>
+			<item value="/home/unthinkable-lap-0076/Downloads/photo-app-api-user"/>
+			<item value="/home/unthinkable-lap-0076/Downloads/Conversion-Exchange-NamingServer"/>
+			<item value="/home/unthinkable-lap-0076/Downloads/api-gateway"/>
+			<item value="/home/unthinkable-lap-0076/Downloads/naming-server"/>
+			<item value="/home/unthinkable-lap-0076/Downloads/currency-conversion-service"/>
+			<item value="/home/unthinkable-lap-0076/Downloads/currency-exchange-service"/>
+			<item value="/home/unthinkable-lap-0076/Downloads/spring-cloud-config-server"/>
+			<item value="/home/unthinkable-lap-0076/Downloads/limit-microservices"/>
+			<item value="/home/unthinkable-lap-0076/Downloads/34-thymeleafdemo-employees-list-db/34-thymeleafdemo-employees-list-db"/>
+			<item value="/home/unthinkable-lap-0076/Downloads/23-spring-data-jpa-cruddemo (1)/23-spring-data-jpa-cruddemo"/>
+			<item value="/home/unthinkable-lap-0076/Downloads/23-spring-data-jpa-cruddemo/23-spring-data-jpa-cruddemo"/>
+			<item value="/home/unthinkable-lap-0076/Downloads/22-jpa-cruddemo/22-jpa-cruddemo"/>
+			<item value="/home/unthinkable-lap-0076/Downloads/20-hibernate-basic-cruddemo/20-hibernate-basic-cruddemo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

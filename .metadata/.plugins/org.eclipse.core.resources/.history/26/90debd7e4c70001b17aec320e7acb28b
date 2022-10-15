@@ -1,0 +1,30 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<%@page isELIgnored="false"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+	<h1>hello world of spring</h1>
+	<br>
+	<br>
+	
+	 Student Name:
+
+	<%
+	String ss = request.getParameter("stdName"); //retrieving value from the form tag.
+	out.println(ss);
+	%>
+
+	<br>
+	<br> 
+	Student Name: ${message }  //using jsp expression language.
+
+	
+
+</body>
+</html>

@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Thu Sep 23 11:31:42 IST 2021
+org.eclipse.jst.j2ee.server\:/binary\:/home/unthinkable-lap-0076/.m2/repository/org/springframework/spring-web/5.3.3/spring-web-5.3.3.jar=WEB-INF/lib/spring-web-5.3.3.jar
+org.eclipse.jst.jee.server\:/binary\:/home/unthinkable-lap-0076/.m2/repository/org/springframework/spring-web/5.2.0.RELEASE/spring-web-5.2.0.RELEASE.jar=WEB-INF/lib/spring-web-5.2.0.RELEASE.jar
+org.eclipse.jst.j2ee.server\:/binary\:/home/unthinkable-lap-0076/.m2/repository/org/springframework/spring-web/5.2.0.RELEASE/spring-web-5.2.0.RELEASE.jar=WEB-INF/lib/spring-web-5.2.0.RELEASE.jar
+org.eclipse.jst.j2ee.server\:/binary\:/home/unthinkable-lap-0076/.m2/repository/org/springframework/spring-web/5.2.12.RELEASE/spring-web-5.2.12.RELEASE.jar=WEB-INF/lib/spring-web-5.2.12.RELEASE.jar

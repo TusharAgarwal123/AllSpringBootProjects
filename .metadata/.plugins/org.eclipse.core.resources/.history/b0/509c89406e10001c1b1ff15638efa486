@@ -1,0 +1,13 @@
+package com.batch.demo.model;
+
+import javax.persistence.Entity;
+
+@Entity
+public class User {
+
+	private Integer id;
+	private String name;
+	private String dept;
+	private Integer salary;
+
+}
